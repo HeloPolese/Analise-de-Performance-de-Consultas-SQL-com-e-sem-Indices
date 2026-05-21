@@ -1,0 +1,2 @@
+# Analise-de-Performance-de-Consultas-SQL-com-e-sem-Indices
+Projeto desenvolvido com o objetivo de analisar, de forma prática, o impacto da utilização de índices no desempenho de consultas em banco de dados relacionais. A atividade envolveu a criação e manipulação de uma base de dados com grande volume de registros, permitindo a realização de testes comparativos entre cenários com e sem indexação.
